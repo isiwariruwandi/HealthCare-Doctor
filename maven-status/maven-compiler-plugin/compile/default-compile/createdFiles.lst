@@ -1,0 +1,5 @@
+com\example\my_cw_app\MyCwAppApplication.class
+com\example\my_cw_app\controller\DoctorController.class
+com\example\my_cw_app\repository\DoctorRepository.class
+com\example\my_cw_app\service\DoctorService.class
+com\example\my_cw_app\entity\Doctor.class
